@@ -7,7 +7,7 @@ A ideia é registrar minha jornada de aprendizado, refletir sobre as soluções,
 
 - **Praticar algoritmos e estruturas de dados** usando exercícios reais do LeetCode.
 - **Desenvolver raciocínio lógico e matemático** para resolução de problemas.
-- **Aprimorar habilidades em linguagens de programação**, com foco inicial em Python (podendo incluir outras linguagens no futuro).
+- **Aprimorar habilidades em linguagens de programação**, com foco inicial em Python, C# e JavaScript (podendo incluir outras linguagens no futuro).
 - **Documentar o processo de aprendizado**, registrando:
   - Problemas estudados.
   - Ideias de solução e variações.
